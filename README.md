@@ -4,7 +4,7 @@
 
 Algorta, Basque Country, Spain
 
-[Email](mailto:irukoa@live.com) / [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-r-puente-uriona-463049268/) / [GitHub](https://github.com/irukoa/) / [ORCID](https://orcid.org/0000-0003-1915-8804)
+[Email](mailto:alvaro.ruiz@ehu.eus) / [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-r-puente-uriona-463049268/) / [ORCID](https://orcid.org/0000-0003-1915-8804) / [Google Scholar](https://scholar.google.com/citations?user=J2orspIAAAAJ) / [ResearchGate](https://www.researchgate.net/profile/Alvaro-R-Puente-Uriona)
 
 ## About Myself
 
