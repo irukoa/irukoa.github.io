@@ -14,12 +14,15 @@ I am a PhD student working in quantum optics. I currently work for the group of 
 
 ### My Skills
 
-1. Physics
+1. Theoretical Physics
    - Solid State Physics
    - Quantum Mechanics
    - Quantum Optics
    - *Ab initio* Methods
    - Wannier Functions
+   - Group Theory
+   - Differential Geometry
+   - Fibre Bundles
 
 2. Programming
    - Fortran
