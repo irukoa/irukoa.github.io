@@ -10,7 +10,7 @@ Algorta, Basque Country, Spain
 
 <img src="assets/profile.png"  width="180">
 
-I am a PhD student working in quantum optics. I currently work for the group of **Theory of Electronic and Optical Excitations in Solids**, on the **Materials Physics Center** at San Sebastián (Spain). My previous education has been centered on theoretical physics.
+I am a PhD student researching quantum optics. I currently work for the group of **Theory of Electronic and Optical Excitations in Solids**, on the **Materials Physics Center** at San Sebastián (Spain). My previous education has been centered on theoretical physics.
 
 ### My Skills
 
