@@ -62,5 +62,6 @@ I am a PhD student researching quantum optics. I currently work for the group of
 
 ## 📜 Publications
 
-1. "*Ab initio* study of the nonlinear optical properties and dc photocurrent of the Weyl semimetal TaIrTe<sub>4</sub>", [DOI](https://doi.org/10.1103/PhysRevB.107.205204), [arXiv](https://arxiv.org/abs/2302.03090)
-2. "Topological phase diagram of optimally shaken honeycomb lattices: A dual perspective from stroboscopic and nonstroboscopic Floquet Hamiltonians", [DOI](https://doi.org/10.1103/PhysRevResearch.6.023244), [arXiv](https://arxiv.org/abs/2402.12113)
+1. "*Ab initio* study of the nonlinear optical properties and dc photocurrent of the Weyl semimetal TaIrTe<sub>4</sub>", [DOI](https://doi.org/10.1103/PhysRevB.107.205204), [arXiv](https://arxiv.org/abs/2302.03090).
+2. "Topological phase diagram of optimally shaken honeycomb lattices: A dual perspective from stroboscopic and nonstroboscopic Floquet Hamiltonians", [DOI](https://doi.org/10.1103/PhysRevResearch.6.023244), [arXiv](https://arxiv.org/abs/2402.12113).
+3. "Computing Floquet quasienergies in finite and extended systems: Role of electromagnetic and quantum-geometric gauges", [DOI](https://doi.org/10.1103/PhysRevB.110.125203), [arXiv](https://arxiv.org/abs/2406.04091).
