@@ -45,7 +45,7 @@ I was a PhD student researching quantum optics, now working at the railway indus
 ## Job Experience
 
 1. **PhD Student in Physics**, University of the Basque Country (UPV/EHU), _(Oct. 2021 - Nov. 2025)_
-2. **Embeeded systems software developer**, CAF Signalling, _(Jul. 2025 - present)_
+2. **Embedded systems software developer**, CAF Signalling, _(Jul. 2025 - present)_
 
 ### 🏆 Accomplishments
 
