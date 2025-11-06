@@ -1,6 +1,6 @@
 # Álvaro R. Puente-Uriona
 
-**PhD Student in Solid State Physics**, *UPV/EHU*,
+**PhD in Solid State Physics**, *UPV/EHU*,
 
 Algorta, Basque Country, Spain
 
@@ -10,7 +10,7 @@ Algorta, Basque Country, Spain
 
 <img src="assets/profile.png"  width="180">
 
-I am a PhD student researching quantum optics. I currently work for the group of **Theory of Electronic and Optical Excitations in Solids**, on the **Materials Physics Center** at San Sebastián (Spain). My previous education has been centered on theoretical physics.
+I was a PhD student researching quantum optics, now working at the railway industry. I used to work for the group of **Theory of Electronic and Optical Excitations in Solids**, on the **Materials Physics Center** at San Sebastián (Spain). My previous education has been centered on theoretical physics.
 
 ### My Skills
 
@@ -44,7 +44,8 @@ I am a PhD student researching quantum optics. I currently work for the group of
 
 ## Job Experience
 
-1. **PhD Student in Physics**, University of the Basque Country (UPV/EHU), _(Oct. 2021 - present)_
+1. **PhD Student in Physics**, University of the Basque Country (UPV/EHU), _(Oct. 2021 - Nov. 2025)_
+2. **Embeeded systems software developer**, CAF Signalling, _(Jul. 2025 - present)_
 
 ### 🏆 Accomplishments
 
